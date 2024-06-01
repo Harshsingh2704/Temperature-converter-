@@ -1,0 +1,10 @@
+body{
+    background-color: darkgrey;
+}
+h1{
+    padding-top: 80px;
+    color: aqua;
+}
+select{
+    padding-left: 20px;
+}
